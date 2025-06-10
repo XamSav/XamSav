@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on my portfolio<br>🤝 I’m looking for help with other unity engine developers<br>🌱 I’m currently learning WebSockets with Unity Engine<br>📫 How to reach me samuel81@hotmail.es<br>👨‍💻 All of my projects are available at www.xamsav.es
+🔭 I'm currently working on my portfolio<br>🌱 I’m currently learning WebSockets for fast communication between applications<br>📫 How to reach me samuel81@hotmail.es<br>
 
 
 ## 🌐 Socials:
