@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on my portfolio<br>🌱 I’m currently learning WebSockets for fast communication between applications<br>📫 How to reach me samuel81@hotmail.es<br>
+🔭 I'm currently working on my portfolio<br>📫 How to reach me samuel81@hotmail.es<br>
 
 
 ## 🌐 Socials:
